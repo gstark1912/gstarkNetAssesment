@@ -1,0 +1,14 @@
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DAL.dll.config
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DAL.dll
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DAL.pdb
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\Entities.dll
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\Entities.pdb
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.dll
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.pdb
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DataBase\Database.mdf
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DataBase\Database_log.ldf

@@ -8,7 +8,7 @@ namespace Entities.Enums
 {
     public class EntitiesEnums
     {
-        public enum MyEnum
+        public enum OperationCode
         {
             Balance = 1,
             Withdraw = 2

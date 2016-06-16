@@ -19,7 +19,7 @@ namespace DAL.Context.Mappings
             this.Property(e => e.IDOperationCode).IsRequired();
             this.Property(e => e.IDCard).IsRequired();
             this.Property(e => e.Amount).IsOptional();
-            this.Property(e => e.TimeStamp).IsRequired();
+            this.Property(e => e.Date).IsRequired();
         }
     }
 }

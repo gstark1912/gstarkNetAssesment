@@ -9,5 +9,6 @@ namespace DAL.Interfaces
 {
     public interface IRepositoryOperation : IRepository<Operation>
     {
+        List<Operation> GetAllFromUser(long cardNumber);
     }
 }

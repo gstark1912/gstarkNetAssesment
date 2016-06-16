@@ -2,3 +2,4 @@ C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\Entities\bin\Debu
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\Entities\bin\Debug\Entities.pdb
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\Entities\obj\Debug\Entities.dll
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\Entities\obj\Debug\Entities.pdb
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache

@@ -12,3 +12,7 @@ C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.pdb
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DataBase\Database.mdf
 C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\bin\Debug\DataBase\Database_log.ldf
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.Migrations.Init.resources
+C:\Users\Geerr\Source\Repos\gstarkNetAssesment\GstarkAssesment\DAL\obj\Debug\DAL.Migrations.Second.resources

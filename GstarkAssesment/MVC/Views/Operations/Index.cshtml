@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Welcome to your Home page!";
+}
+
+<h2>@ViewBag.Title</h2>
+<h4>What do you want to do today?</h4>
+
+<a href="@Url.Action("GetBalance","Operations")" class="btn btn-primary btn-lg active" role="button">Get Balance</a>
+<a href="@Url.Action("Withdraw","Operations")" class="btn btn-primary btn-lg active" role="button">Withdraw</a>
+<a href="@Url.Action("Index","Home")" class="btn btn-primary btn-lg active" role="button">Exit</a>

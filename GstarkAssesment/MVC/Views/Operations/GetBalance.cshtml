@@ -1,0 +1,12 @@
+﻿@model MVC.Models.BalanceViewModel
+@{
+    ViewBag.Title = "Account Balance";
+}
+
+<h2>@ViewBag.Title</h2>
+<h4>CardNumber: @Html.ValueFor(m => m.CardNumber)</h4>
+<h4>Date&Time: @DateTime.Now</h4>
+<h4>Your balance is @Html.ValueFor(m => m.Amount)</h4>
+
+
+<a href="@Url.Action("Index","Operations")" class="btn btn-primary btn-lg active" role="button">Back</a>

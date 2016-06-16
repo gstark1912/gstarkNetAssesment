@@ -29,8 +29,6 @@ namespace IoC
         private static void RegisterTypes(IUnityContainer container)
         {
             container.RegisterType<IUnitOfWork, UnitOfWork>(new PerResolveLifetimeManager());
-            container.RegisterType<IServiceOperation, ServiceOperation>();
-            container.RegisterType<IRepositoryOperation, RepositoryOperation>();
 
             container.RegisterTypes(AllClasses.FromLoadedAssemblies().Where(
                 t => t.Namespace == "BLL.Services"),

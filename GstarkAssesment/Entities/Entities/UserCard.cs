@@ -10,6 +10,7 @@ namespace Entities.Entities
     {
         public int IDUserCard { get; set; }
         public long CardNumber { get; set; }
+        public int Password { get; set; }
         public decimal Balance { get; set; }
         public bool Blocked { get; set; }
         public int LoginAttempts { get; set; }

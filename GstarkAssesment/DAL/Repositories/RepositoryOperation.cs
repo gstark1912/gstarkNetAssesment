@@ -1,11 +1,9 @@
-﻿using DAL.Context.Interfaces;
+﻿using System;
+using System.Collections.Generic;
+using DAL.Context.Interfaces;
 using DAL.Interfaces;
 using Entities.Entities;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
@@ -14,6 +12,15 @@ namespace DAL.Repositories
         public RepositoryOperation(IUnitOfWork unitOfWork)
             : base(unitOfWork)
         {
-        }        
+        }
+
+        public List<Operation> GetAllFromUser(long cardNumber)
+        {
+            return dbSet
+                .Include("OperationCode")
+                .Include("UserCard")
+                .Where(o => o.UserCard.CardNumber == cardNumber)
+                .ToList();
+        }
     }
 }
